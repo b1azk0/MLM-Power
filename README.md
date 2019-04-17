@@ -11,9 +11,8 @@ Multilevel modeling (MLM) is a statistical technique that can be used to analyze
 
 ## References
 
-References
-Aguinis, H., Gottfredson, R. K., & Culpepper, S. A. (2013). Best-practice recommendations for estimating cross-level interaction effects using multilevel modeling. Journal of Management, 39(6), 1490-1528.
-Bates, D., Machler, M., Bolker, B. and Walker, S. (2015) Fitting Linear Mixed-Effects Models Using lme4. Journal of Statistical Software, 67, 1-48.
+Aguinis, H., Gottfredson, R. K., & Culpepper, S. A. (2013). Best-practice recommendations for estimating cross-level interaction effects using multilevel modeling. Journal of Management, 39(6), 1490-1528.  
+Bates, D., Machler, M., Bolker, B. and Walker, S. (2015) Fitting Linear Mixed-Effects Models Using lme4. Journal of Statistical Software, 67, 1-48.  
 Bryk, A. S., & Raudenbush, S. W. (1992). Hierarchical linear models. Newbury Park, CA: Sage.
 Enders, C. K., & Tofighi, D. (2007). Centering predictor variables in cross-sectional multilevel models: A new look at an old issue. Psychological Methods, 12, 121–138.
 Faul, F., Erdfelder, E., Buchner, A., & Lang, A. G. (2009). Statistical power analyses using G*Power 3.1: Tests for correlation and regression analyses. Behavior Research Methods, 41, 1149-1160.
