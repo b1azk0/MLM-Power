@@ -25,7 +25,7 @@ p1 <- powerCurve(m1, along="subj", nsim=1000, breaks = seq(20, 100, 5))
 save(p1, file = "p1.sim")
 
 set.seed(2019)
-p2<-powerCurve(m1, along="day", nsim=1000, breaks = seq(7, 14, 1))
+p2<-powerCurve(m1, along="day", nsim=1000, breaks = seq(3, 14, 1))
 save(p2, file = "p2.sim")
 
 
@@ -40,7 +40,7 @@ p3 <- powerCurve(m2, along="subj", nsim=1000, breaks = seq(20, 100, 5))
 save(p3, file = "p3.sim")
 
 set.seed(2019)
-p4<-powerCurve(m2, along="day", nsim=1000, breaks = seq(7, 14, 1))
+p4<-powerCurve(m2, along="day", nsim=1000, breaks = seq(3, 14, 1))
 save(p4, file = "p4.sim")
 
 
